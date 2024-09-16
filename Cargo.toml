@@ -1,0 +1,10 @@
+[package]
+name = "zm_clean_export"
+version = "0.1.0"
+edition = "2021"
+
+# Add your dependencies here
+[dependencies]
+chrono = "0.4"
+csv = "1.1"
+
